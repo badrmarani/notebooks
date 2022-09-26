@@ -1,1 +1,1 @@
-This repo contains notebooks where I implements papers I liked.
+DL algorithms implemented in PyTorch.
