@@ -1,1 +1,0 @@
-DL algorithms implemented in PyTorch.
